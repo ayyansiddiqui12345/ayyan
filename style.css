@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    
 }
 
 #free {
@@ -19,6 +20,7 @@ img#avatar {
     margin-left: 40%;
     margin-top: 150px;
 }
+
 
 .avatar {
     height: 650px;
@@ -280,3 +282,8 @@ body {
         width: 100%;
     }
 }
+@media print {
+    .container {
+      width: auto;
+    }
+  }
