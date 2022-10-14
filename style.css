@@ -16,8 +16,6 @@
     margin-left: 15%;
 }
 
-
-
 img#avatar {
     height: 270px;
     width: 270px;
@@ -57,7 +55,7 @@ nav {
 }
 
 .about {
-    background-color: lightblue;
+    background-color:rgb(3, 231, 163);
     height: 500px;
 
 }
@@ -156,6 +154,7 @@ nav {
 
 #button {
     margin-left: 60%;
+    
 
 }
 
