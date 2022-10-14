@@ -15,6 +15,10 @@
 
     margin-left: 15%;
 }
+.bi-instagram{
+    margin-left: 15%;
+
+}
 
 img#avatar {
     height: 270px;
@@ -33,7 +37,7 @@ img#avatar {
 }
 
 nav {
-    z-index: 1;
+    z-index:1;
     position: fixed;
     top: 0px;
     right: 0;
