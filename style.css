@@ -44,8 +44,9 @@ img#avatar {
   .avatar {
     background-color: #1abc9c;
   height: auto;
-   min-width: 600px;
-   max-width: 100%;
+  min-width: auto;
+  width: 100%;
+  max-width:auto;
   }  
 
 
@@ -62,6 +63,9 @@ img#avatar {
 .about {
     background-color:rgb(3, 231, 163);
     height: 500px;
+    width:auto;
+    min-width: auto;
+    max-width:auto;
 
 }
 .form-control{
