@@ -44,9 +44,8 @@ img#avatar {
   .avatar {
     background-color: #1abc9c;
   height: auto;
-  min-width: auto;
   width: 100%;
-  max-width:auto;
+  
   }  
 
 
