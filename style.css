@@ -12,6 +12,7 @@ img#avatar {
       -webkit-transform: translate(-50%, 0);
   }
   
+  
   .avatar {
     background-color: #1abc9c;
   height: auto;
@@ -151,6 +152,7 @@ img#avatar {
   
   .qwe:hover .middle {
     opacity: 1;
+    align-self: center;
   }
   
   .text {
